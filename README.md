@@ -5,9 +5,10 @@ This project compares various activation functions (ReLU, Sigmoid, Tanh, Leaky R
 
 • **Activation_Functions_NN_Performance_CIFAR-10_Tutorial.ipynb:** This Jupyter Notebook contains the code used for the analysis. It includes the implementation of various neural network models using different activation functions (ReLU, Sigmoid, Tanh, and Leaky ReLU) and plots the corresponding training accuracy and loss for comparison.
 
-• **tutorial.pdf:** A detailed tutorial explaining how the code works, step-by-step instructions on using the repository, and best practices when experimenting with activation functions.
+• **Activation-Functions-Tutorial.pdf:** A detailed tutorial explaining how the code works, step-by-step instructions on using the repository, and best practices when experimenting with activation functions.
 
 • **plots/:** Directory containing the saved figures for accuracy and loss plots generated during the analysis. These images include colorblind-friendly palettes and alt-text for better accessibility.
+
 
 # Key Features
 
@@ -68,8 +69,25 @@ The bar chart illustrates how models with different activation functions perform
 
 • **Accuracy Plot:** Displays bar plots for comparison of accuracy across models with different activation functions.
 
+# Tutorial
+
+The tutorial PDF is included in the /tutorials folder. It explains:
+
+• **Theory** of each activation function.
+
+• **Model setup** and experiment details.
+
+• **Results:** Analysis of accuracy and training loss comparisons for each function.
+
+**To view the tutorial:**
+
+Open tutorials/Activation-Functions-Tutorial.pdf.
+
 # Contributing
 Contributions are welcome! If you want to suggest improvements or add new features, feel free to fork this repository and create a pull request. Please make sure that your contributions align with the accessibility standards and coding style of the repository.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License. You can freely use, modify, and distribute the project.
+
+For more details, see the LICENSE file.
