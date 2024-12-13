@@ -35,7 +35,7 @@ pip install torch torchvision matplotlib numpy
 **1. Clone the Repository**
 Start by cloning this repository to your local machine using the command:
 
-git clone https://github.com/yourusername/activation-function-analysis.git
+git clone https://github.com/Nandana-vijayan/activation-function-analysis.git
 
 **2. Install Dependencies**
 If you don't already have them, install the required libraries:
